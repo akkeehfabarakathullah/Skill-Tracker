@@ -1,4 +1,4 @@
-# 📚 Learning Tracker App
+# 📚 Skiil Learning Tracker App
 
 A simple and elegant web app that helps users track learning progress, set goals, and monitor achievements. Built with **React**, this app integrates authentication, a customizable dashboard, and skill-tracking functionalities—all wrapped in a modern UI with dark mode support.
 
